@@ -1,0 +1,151 @@
+ticket_id,text,category
+TCK-1001,I was charged twice for my subscription this month.,Billing
+TCK-1002,Can you send me the invoice for my latest purchase?,Billing
+TCK-1003,My credit card was debited but the payment shows failed.,Billing
+TCK-1004,I need to update my billing payment method and card expiration date.,Billing
+TCK-1005,Why was there an unexpected recurring renewal fee on my account?,Billing
+TCK-1006,I want to change my billing cycle from monthly to yearly.,Billing
+TCK-1007,There is an unknown charge of $49 on my bank statement from your service.,Billing
+TCK-1008,My coupon code was not applied before checkout can you adjust the bill?,Billing
+TCK-1009,Please update the VAT registration number on my company receipt.,Billing
+TCK-1010,I was charged after cancelling my subscription during the free trial.,Billing
+TCK-1011,Can I pay using PayPal or wire transfer instead of credit card?,Billing
+TCK-1012,Payment failed with error code 4002 when trying to renew.,Billing
+TCK-1013,How do I download past payment receipts for tax purposes?,Billing
+TCK-1014,I received two receipts for the same transaction.,Billing
+TCK-1015,The promotional discount was removed from my monthly bill.,Billing
+TCK-1016,Why did the price increase without any prior notification?,Billing
+TCK-1017,My bank declined the automated transaction for invoice INV-9821.,Billing
+TCK-1018,Please remove my expired credit card from the payment settings.,Billing
+TCK-1019,Can you issue a corrected invoice with our updated business address?,Billing
+TCK-1020,My account was upgraded but I haven't received the billing statement.,Billing
+TCK-1021,I was billed twice for order number 84729.,Billing
+TCK-1022,Is there any option for split payment across two cards?,Billing
+TCK-1023,I need an itemized bill for last quarter usage.,Billing
+TCK-1024,My payment went through but my subscription is still marked unpaid.,Billing
+TCK-1025,I was overcharged on my international transaction fee.,Billing
+TCK-1026,Can I get a formal quotation before making the payment?,Billing
+TCK-1027,Why was sales tax applied to my tax-exempt organization account?,Billing
+TCK-1028,The automatic debit charged an old debit card that was deactivated.,Billing
+TCK-1029,I need confirmation that my billing details have been updated.,Billing
+TCK-1030,Payment gateway timed out during transaction but money was deducted.,Billing
+TCK-1031,The application keeps crashing whenever I open the analytics dashboard.,Technical Support
+TCK-1032,I am getting a 500 internal server error when saving project settings.,Technical Support
+TCK-1033,The export to CSV button is completely unresponsive.,Technical Support
+TCK-1034,My data is not syncing between the mobile app and web platform.,Technical Support
+TCK-1035,Getting an unexpected Javascript error on the checkout page.,Technical Support
+TCK-1036,The software freezes every time I upload a file larger than 10MB.,Technical Support
+TCK-1037,Real-time notifications are not showing up on my desktop app.,Technical Support
+TCK-1038,The search filter is returning empty results even though records exist.,Technical Support
+TCK-1039,API requests are intermittently returning 504 gateway timeout errors.,Technical Support
+TCK-1040,The page keeps reloading continuously in an infinite redirect loop.,Technical Support
+TCK-1041,Unable to connect to the server error code ERR_CONNECTION_REFUSED.,Technical Support
+TCK-1042,The dark mode theme breaks table layouts and makes text unreadable.,Technical Support
+TCK-1043,Audio playback is distorted and cuts out after 30 seconds.,Technical Support
+TCK-1044,File attachment upload fails with error message Payload too large.,Technical Support
+TCK-1045,Charts and graphs are not rendering properly in Chrome browser.,Technical Support
+TCK-1046,The mobile app crashes on startup on Android 14.,Technical Support
+TCK-1047,Getting SSL certificate validation failed error when opening dashboard.,Technical Support
+TCK-1048,Keyboard shortcuts stopped working after the latest software update.,Technical Support
+TCK-1049,Database query times out when running monthly summary reports.,Technical Support
+TCK-1050,The application shows a blank white screen after successful login.,Technical Support
+TCK-1051,Websocket connection drops repeatedly every few minutes.,Technical Support
+TCK-1052,PDF export produces a blank page with no content.,Technical Support
+TCK-1053,The drop-down menu does not render on touch screens.,Technical Support
+TCK-1054,Memory usage spikes to 100% when processing background jobs.,Technical Support
+TCK-1055,The synchronization job failed with an unhandled null pointer exception.,Technical Support
+TCK-1056,Integration webhook is failing with 403 Forbidden response.,Technical Support
+TCK-1057,Slow page response times during peak business hours.,Technical Support
+TCK-1058,The system is unable to parse the uploaded JSON data format.,Technical Support
+TCK-1059,Copy-paste functionality is disabled or broken in the text editor.,Technical Support
+TCK-1060,Video rendering fails with error code 102.,Technical Support
+TCK-1061,I forgot my password and the reset link is not arriving in my inbox.,Account
+TCK-1062,How do I enable two-factor authentication on my profile?,Account
+TCK-1063,I want to permanently delete my account and erase all my personal data.,Account
+TCK-1064,Can you help me change my registered email address to a new domain?,Account
+TCK-1065,My account has been temporarily locked due to multiple failed login attempts.,Account
+TCK-1066,I need to transfer account ownership to another team administrator.,Account
+TCK-1067,Unable to verify my phone number during account registration.,Account
+TCK-1068,How can I change my username and profile display name?,Account
+TCK-1069,I did not receive the account activation email after signing up.,Account
+TCK-1070,Can I merge two separate accounts under one master login?,Account
+TCK-1071,My two-factor authentication device is lost how can I regain access?,Account
+TCK-1072,How do I update my profile contact details and job title?,Account
+TCK-1073,Someone tried to access my account from an unrecognized IP address.,Account
+TCK-1074,I need to remove a former employee from our organization account.,Account
+TCK-1075,How do I manage user roles and permissions for my workspace members?,Account
+TCK-1076,My password reset link expired before I could click it.,Account
+TCK-1077,Can I change the primary admin email for our company account?,Account
+TCK-1078,Please unlock my account after too many password retries.,Account
+TCK-1079,How do I download a copy of my personal account data under GDPR?,Account
+TCK-1080,I want to deactivate my profile temporarily without losing my history.,Account
+TCK-1081,Account verification failed because the uploaded ID photo was rejected.,Account
+TCK-1082,How can I invite new team members to collaborate on my account?,Account
+TCK-1083,The security question answer is not being accepted.,Account
+TCK-1084,I need to revoke access for third-party OAuth connected apps.,Account
+TCK-1085,Cannot change my account password because the current password is forgotten.,Account
+TCK-1086,Why is my account showing inactive when I logged in yesterday?,Account
+TCK-1087,Can I restore an accidentally deleted account?,Account
+TCK-1088,My session expires too quickly can you extend the login timeout?,Account
+TCK-1089,Please update the registered business name in our account settings.,Account
+TCK-1090,How do I switch between different workspace profiles in my account?,Account
+TCK-1091,Where is my order? The tracking number says delivered but nothing arrived.,Delivery
+TCK-1092,My shipment has been stuck in transit at the distribution center for 5 days.,Delivery
+TCK-1093,The delivery driver delivered my package to the wrong address.,Delivery
+TCK-1094,My package arrived damaged with torn packaging and broken contents.,Delivery
+TCK-1095,Can I change the delivery address for order 65492 before it ships?,Delivery
+TCK-1096,The delivery estimate was yesterday but my package has not arrived yet.,Delivery
+TCK-1097,Tracking status has not updated since last week.,Delivery
+TCK-1098,I was not home when the delivery was attempted how do I reschedule?,Delivery
+TCK-1099,Received only one box out of the two boxes listed in my shipment.,Delivery
+TCK-1100,Courier marked the package as address incomplete need to provide landmark.,Delivery
+TCK-1101,Can I schedule the delivery for a specific weekend time slot?,Delivery
+TCK-1102,The tracking link provided in the confirmation email leads to a 404 error.,Delivery
+TCK-1103,My parcel was returned to sender because the driver could not find my house.,Delivery
+TCK-1104,Package was left outside in the rain and contents are ruined.,Delivery
+TCK-1105,How do I add special delivery instructions for the courier driver?,Delivery
+TCK-1106,Shipped with express delivery but it has already taken more than a week.,Delivery
+TCK-1107,The shipping company claims my parcel was signed for by someone else.,Delivery
+TCK-1108,Can I pick up my parcel directly from the local courier sorting hub?,Delivery
+TCK-1109,Customs clearance delay for my international shipment order.,Delivery
+TCK-1110,Wrong item was delivered in the package instead of what I ordered.,Delivery
+TCK-1111,Delivery was refused by building security how do I arrange redelivery?,Delivery
+TCK-1112,Tracking shows delivery exception due to severe weather conditions.,Delivery
+TCK-1113,Can I hold the shipment at a pickup locker near my office?,Delivery
+TCK-1114,I received someone else order with their packing slip inside.,Delivery
+TCK-1115,The courier service failed to show up during the scheduled pickup window.,Delivery
+TCK-1116,Need an urgent status update on priority dispatch order.,Delivery
+TCK-1117,The package seal was broken upon arrival.,Delivery
+TCK-1118,Why did the shipping method change from air express to ground freight?,Delivery
+TCK-1119,Package dispatch email was sent but tracking number is invalid.,Delivery
+TCK-1120,Items missing from the delivered parcel box.,Delivery
+TCK-1121,I would like to request a full refund for my recent purchase.,Refund
+TCK-1122,How long does it take for a refund to reflect on my bank credit card?,Refund
+TCK-1123,I returned the item 10 days ago but have not received my refund yet.,Refund
+TCK-1124,Please cancel my subscription and issue a prorated refund.,Refund
+TCK-1125,I was promised a refund within 3 business days but nothing has posted.,Refund
+TCK-1126,Can I get a refund for an accidental purchase made by my child?,Refund
+TCK-1127,The product did not match the description I want my money back.,Refund
+TCK-1128,How do I check the current status of my return refund request?,Refund
+TCK-1129,I canceled my order before shipment when will my refund be processed?,Refund
+TCK-1130,My return package was received at your warehouse please release the refund.,Refund
+TCK-1131,Received a partial refund instead of the full amount including shipping.,Refund
+TCK-1132,I want to request a refund under your 30-day money-back guarantee.,Refund
+TCK-1133,The service was completely unusable I am requesting a total refund.,Refund
+TCK-1134,Can the refund be credited back to my PayPal account instead of store credit?,Refund
+TCK-1135,Why was a restocking fee deducted from my return refund amount?,Refund
+TCK-1136,The refund confirmation email says processed but bank has no record of it.,Refund
+TCK-1137,I returned the defective hardware and need a refund confirmation receipt.,Refund
+TCK-1138,Flight cancellation refund has not been credited to my original card.,Refund
+TCK-1139,Can I request a refund if the software is incompatible with my operating system?,Refund
+TCK-1140,Need an immediate refund for unauthorized charge.,Refund
+TCK-1141,Is return shipping deducted from the final refund amount?,Refund
+TCK-1142,I was told my refund was approved but it has been over two weeks.,Refund
+TCK-1143,Please refund the difference after price drop within 7 days of purchase.,Refund
+TCK-1144,How do I initiate a return and refund for an unopened product?,Refund
+TCK-1145,Refund transaction ID is missing from my account statement.,Refund
+TCK-1146,I want a refund for the duplicate transaction charged last Monday.,Refund
+TCK-1147,Can I get a refund in original payment method rather than voucher points?,Refund
+TCK-1148,Return tracking confirms delivery but refund status still shows pending.,Refund
+TCK-1149,I was charged an annual fee right after requesting cancellation please refund.,Refund
+TCK-1150,Customer service agreed to a refund attaching the chat transcript for reference.,Refund

@@ -1,0 +1,29 @@
+Customer Support Ticket Classification - Evaluation Report
+============================================================
+Total Dataset Records: 150
+Training Samples: 120
+Testing Samples: 30
+Categories: ['Account', 'Billing', 'Delivery', 'Refund', 'Technical Support']
+
+Test Accuracy: 0.8667 (86.67%)
+
+Detailed Classification Report:
+                   precision    recall  f1-score   support
+
+          Account     0.8571    1.0000    0.9231         6
+          Billing     0.8000    0.6667    0.7273         6
+         Delivery     1.0000    0.8333    0.9091         6
+           Refund     0.8571    1.0000    0.9231         6
+Technical Support     0.8333    0.8333    0.8333         6
+
+         accuracy                         0.8667        30
+        macro avg     0.8695    0.8667    0.8632        30
+     weighted avg     0.8695    0.8667    0.8632        30
+
+Confusion Matrix:
+Labels: ['Account', 'Billing', 'Delivery', 'Refund', 'Technical Support']
+[[6 0 0 0 0]
+ [0 4 0 1 1]
+ [1 0 5 0 0]
+ [0 0 0 6 0]
+ [0 1 0 0 5]]

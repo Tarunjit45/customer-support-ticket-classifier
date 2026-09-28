@@ -1,7 +1,6 @@
 Customer Support Ticket Classification - Evaluation Report
 ============================================================
 Total Dataset Records: 150
-Training Samples: 120
 Testing Samples: 30
 Categories: ['Account', 'Billing', 'Delivery', 'Refund', 'Technical Support']
 

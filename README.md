@@ -2,6 +2,8 @@
 
 An end-to-end Machine Learning system for automated customer support ticket classification, built for an AI/ML technical assignment.
 
+> 📖 **Looking for the deep dive?** Read the complete [Comprehensive Technical & Architecture Guide](DOCUMENTATION.md) for plain-English explanations, mathematical details, and fresher interview Q&A.
+
 ---
 
 ## Overview
